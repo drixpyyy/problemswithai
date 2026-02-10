@@ -4,7 +4,8 @@ cant properly animate gets all xyz's wrong no matter what
 
 always removes stuff you do not ask it to and you can notice your code is significantly shorter, trys to be helpful but removes your already good logic you never asked it to change and makes it way worse in attempt to make it better
 
-its vision is object classification so when it sees something it cant recognize on its data set it will only see shapes and colors and try to make out what it is with its common sense, i thought of making a python script to turn all images pixel into text so it could try to see  the image in more detail but its very bad at knowing what a image is with just the exact color and position of every pixel and the output of the text data is to big for most ai's
+its vision is object classification so when it sees something it cant recognize on its data set it will only see shapes and colors and try to make out what it is with its common sense, i thought of making a python script to turn all images pixel into text so it could
+try to see  the image in more detail but its very bad at knowing what a image is with just the exact color and position of every pixel and the output of the text data is to big for most ai's
 
 poor common sense
 
